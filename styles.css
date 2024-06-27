@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+div, section, img {
+    box-sizing: border-box;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+section {
+    width: 100%;
+    text-align: center;
+    margin: 20px 0px;
+}
+section img {
+    padding: 0pt 20px;
+    transition-property: opacity;
+    transition-duration: 0.5s;
+}
